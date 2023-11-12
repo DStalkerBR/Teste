@@ -17,9 +17,9 @@ TIC18_python
 
 ## Autores
 
-| Nome                                              | 📧 E-mail              |
-| --------------------------------------------------| -------------------  |
-| [Daniel Andrade](https://github.com/DanielPenedo) | email@gmail.com      |
-| [David Vinicius](https://github.com/Ishinaru)     | email@gmail.com      |
-| [Igor Alex](https://github.com/Kronossss)         | email@gmail.com      |
-| [Jhonata Araújo](https://github.com/DStalkerBR)   | email@gmail.com      |
+| Nome                                                | 📧 E-mail                    |
+| ----------------------------------------------------| -----------------------------|
+| [Daniel Andrade](https://github.com/DanielPenedo97) | dapsantos.cic@uesc.br        |
+| [David Vinicius](https://github.com/Ishinaru)       | dvplima.cic@uesc.br          |
+| [Igor Alex](https://github.com/Kronossss)           | iafsalmeida.cic@uesc.br      |
+| [Jhonata Araújo](https://github.com/DStalkerBR)     | janascimento.cic@uesc.br     |

@@ -1,1 +1,0 @@
-Avaliação desenvolvida em equipe. 

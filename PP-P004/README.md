@@ -2,6 +2,13 @@
 
 Script Python que permite ao usuário gerenciar e analisar várias listas de dados, incluindo nomes, salários, datas e idades. O script fornece um menu de opções para o usuário, permitindo que ele adicione dados a qualquer uma das listas, percorra as listas, calcule o valor da folha de pagamento com um reajuste de 10% e modifique as datas anteriores a 2019.
 
+## Arquivos
+
+O projeto consiste em dois scripts Python:
+
+- `exercicio1.py`: Este script corresponde à primeira parte da avaliação em equipe.
+- `equipe.py`: Este script corresponde à segunda parte da avaliação em equipe, especificamente ao terceiro exercício.
+
 ## Classes
 
 O script contém várias classes, incluindo:
